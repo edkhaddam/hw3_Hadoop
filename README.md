@@ -1,4 +1,3 @@
 # hw3_Hadoop
-# hw3_Hadoop
-# hw3_Hadoop
-# hw3_Hadoop
+# We modified book_join_ratings.hql with r.rating >6 and tmp_user.hql so that Age<31.
+
