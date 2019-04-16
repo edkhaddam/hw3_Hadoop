@@ -1,3 +1,3 @@
 # hw3_Hadoop
-# We modified book_join_ratings.hql with r.rating >6 and tmp_user.hql so that Age<31.
+# We created a new branch called new_query, checked it out, then modified book_rating_join and tmp_user to include r.rating>4 and age>24 respectively.
 

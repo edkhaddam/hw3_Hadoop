@@ -1,4 +1,3 @@
-hive
 CREATE DATABASE bookcrossing;
 USE bookcrossing;
 CREATE TABLE IF NOT EXISTS users 
